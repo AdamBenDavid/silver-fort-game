@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4bc448c0-2099-4741-8849-a997d08fc1c1" name="Changes" comment="Add initial NestJS server setup with linting and formatting.&#10;&#10;This commit introduces the foundational structure for a NestJS-based server, including Prettier for consistent code formatting, ESLint for linting, and a `.gitignore` file to exclude unnecessary files from version control. Dependencies and scripts have been added to the `package.json` to support development and testing workflows." />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="Git.Settings">
+<<<<<<< HEAD
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/server" />
+=======
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+>>>>>>> 274886b (fix)
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "AdamBenDavid"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/AdamBenDavid/silver-fort-game.git",
+    "accountId": "25c4d863-e3ef-40df-ad6c-644fd50ab631"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="31XlYVgI686NpUkzLBqaw4h4lQD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "code.cleanup.on.save": "true",
+<<<<<<< HEAD
+    "git-widget-placeholder": "master",
+=======
+    "git-widget-placeholder": "main",
+>>>>>>> 274886b (fix)
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/adamb/WebstormProjects/silver-fort-board-game/server",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "prettierjs.PrettierConfiguration.Package": "C:\\Users\\adamb\\WebstormProjects\\silver-fort-board-game\\server\\node_modules\\prettier",
+<<<<<<< HEAD
+    "settings.editor.selected.configurable": "settings.javascript.prettier",
+=======
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+>>>>>>> 274886b (fix)
+    "ts.external.directory.path": "C:\\Users\\adamb\\WebstormProjects\\silver-fort-board-game\\server\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\adamb\WebstormProjects\silver-fort-board-game\server" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-b26f3e71634d-JavaScript-WS-251.26094.131" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4bc448c0-2099-4741-8849-a997d08fc1c1" name="Changes" comment="" />
+      <created>1755678346218</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1755678346218</updated>
+<<<<<<< HEAD
+      <workItem from="1755678347580" duration="1130000" />
+=======
+      <workItem from="1755678347580" duration="2088000" />
+>>>>>>> 274886b (fix)
+    </task>
+    <task id="LOCAL-00001" summary="Add initial NestJS server setup with linting and formatting.&#10;&#10;This commit introduces the foundational structure for a NestJS-based server, including Prettier for consistent code formatting, ESLint for linting, and a `.gitignore` file to exclude unnecessary files from version control. Dependencies and scripts have been added to the `package.json` to support development and testing workflows.">
+      <option name="closed" value="true" />
+      <created>1755679287280</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1755679287280</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+<<<<<<< HEAD
+            <State />
+=======
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="server-setup" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+>>>>>>> 274886b (fix)
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+<<<<<<< HEAD
+=======
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/server" />
+    </ignored-roots>
+>>>>>>> 274886b (fix)
+    <MESSAGE value="Add initial NestJS server setup with linting and formatting.&#10;&#10;This commit introduces the foundational structure for a NestJS-based server, including Prettier for consistent code formatting, ESLint for linting, and a `.gitignore` file to exclude unnecessary files from version control. Dependencies and scripts have been added to the `package.json` to support development and testing workflows." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add initial NestJS server setup with linting and formatting.&#10;&#10;This commit introduces the foundational structure for a NestJS-based server, including Prettier for consistent code formatting, ESLint for linting, and a `.gitignore` file to exclude unnecessary files from version control. Dependencies and scripts have been added to the `package.json` to support development and testing workflows." />
+    <option name="NON_MODAL_COMMIT_POSTPONE_SLOW_CHECKS" value="false" />
+  </component>
+</project>
