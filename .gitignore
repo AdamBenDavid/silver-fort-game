@@ -1,11 +1,25 @@
-/tmp
-/out-tsc
+cat > .gitignore << 'EOF'
+# Node / TS
+node_modules/
+dist/
+*.log
+*.tsbuildinfo
 
-/node_modules
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-/.pnp
-.pnp.js
+# Server & Client builds
+server/dist/
+server/node_modules/
+client/dist/
+client/node_modules/
 
-.vscode/*
+# Env
+.env
+.env.*.local
+
+# IDE/OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+EOF
+
+git add .gitignore
